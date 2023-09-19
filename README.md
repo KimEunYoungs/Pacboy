@@ -9,10 +9,24 @@
 - 23.09.13 - 23.09.19 :hourglass_flowing_sand:
   
 ## 팀원소개 | PacCo(팩코더) :sunglasses::computer:
-- 김정림(팀장) : 백엔드 (미로)  [junaa111@nate.com](junaa111@nate.com)
-- 김은영 : 프론트엔드 (인트로) [lovekyy1201@naver.com](mailto:lovekyy1201@naver.com)
-- 김효범 : 프론트엔드 (아웃트로) [kimkishi97@gmail.com](mailto:kimkishi97@gmail.com)
-- 임성균 : 백엔드 (유령) [tjdrbs0607@naver.com](mailto:tjdrbs0607@naver.com)
+- 김정림(팀장) : [junaa111@nate.com](junaa111@nate.com)
+  + 아키텍처 설계
+  + 미로 & 게임화면 GUI
+  + 통합 및 리팩토링
+- 김은영 : [lovekyy1201@naver.com](mailto:lovekyy1201@naver.com)
+  + 시작화면 GUI
+  + BGM
+  + 이미지 작업
+  + 소스코드 버전 관리 
+- 김효범 : [kimkishi97@gmail.com](mailto:kimkishi97@gmail.com)
+  + 종료화면 GUI
+  + 랭킹 시스템
+  + 닉네임 및 점수
+- 임성균 : [tjdrbs0607@naver.com](mailto:tjdrbs0607@naver.com)
+  + 팩보이 
+  + 몬스터 
+  + 코인
+  + 에러처리 
   
 ##  개발환경 
 
