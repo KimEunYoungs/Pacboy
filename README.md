@@ -19,7 +19,7 @@
     IDE : Eclipse 4.26
     Notion / Adobe illustrator / Adobe photoshop
 ***
-:crystal_ball: :grinning: :ghost:
+:crystal_ball: :grinning: :ghost: - - -  
 ## 1. 시나리오(개요)
 
 시작화면에 닉네임을 적고 게임 start 버튼을 누른다 // 종료 버튼 으로 종료 가능
