@@ -77,7 +77,7 @@
 - IntroFrame :star:메인메서드:star:
 - OutroFrame
 
-#### 객체 pacboy - [상세보기 - WIKI 이동][((https://github.com/KimEunYoungs/Pacboy/wiki/%EA%B0%9D%EC%B2%B4))](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy)
+#### 객체 pacboy - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy)
 - Coin
 - Ghost
 - GhostMoveManager
