@@ -44,7 +44,6 @@
     - 시간 30초, 1코인당 1 점
     - 성공 시간안에 다먹기
     - 실패 몬스터에게 닿이기, 시간안에 다못먹기
-    - + 피버타임 속도증가
 - 종료화면(성공/실패)
     - 점수
     - 다시시작, 종료
@@ -72,6 +71,33 @@
 <img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 ## 5. 소스코딩
+
+#### pacboy.frame - [상세보기 - WIKI 이동](http://www.naver.com)
+- InGameFrame :star:메인메서드:star:
+- IntroFrame
+- OutroFrame
+- 
+#### pacboy - [상세보기 - WIKI 이동](http://www.naver.com)
+- Coin
+- Ghost
+- GhostMoveManager
+- Pacboy
+- PacboyMoveManager
+  
+#### pacboy.database - [상세보기 - WIKI 이동](http://www.naver.com)
+- BGM
+- Maze
+- Ranking
+
+#### Source File - [상세보기 - WIKI 이동](http://www.naver.com)
+- UserInterface
+
+#### Source File - [상세보기 - WIKI 이동](http://www.naver.com)
+- C://pacco//resource
+  - audio
+  - database
+  - images
+
 ## 6. 포트폴리오 / jar 배포
 
 <div>
