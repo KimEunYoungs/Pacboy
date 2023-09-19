@@ -2,7 +2,7 @@
 > 프로젝트 소개 : 고전게임 Pacman을 참고하여 만든 Pacboy 게임
   - 스레드를 이용한 GUI 게임 구현
 ## 개발 기간
-- 23.09.19
+- 23.09.13 - 23.09.19
 ## 팀원소개 | PacCo(팩코더)
 - 김정림 : 백엔드 (미로)  깃허브 junaa111@nate.com
 - 김은영 : 프론트엔드 (인트로) 깃허브 [lovekyy1201@naver.com](mailto:lovekyy1201@naver.com)
