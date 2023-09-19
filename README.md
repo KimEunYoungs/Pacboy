@@ -2,8 +2,10 @@
 > 스레드를 이용한 GUI 게임 구현 / 고전게임 pacman 참고
 > 
 > 팩보이가 제한시간 안에 유령을 피해 코인을 다먹어야 성공하는 게임
+
 ## 개발 기간
 - 23.09.13 - 23.09.19
+  
 ## 팀원소개 | PacCo(팩코더)
 - 김정림(팀장) : 백엔드 (미로)  [junaa111@nate.com](junaa111@nate.com)
 - 김은영 : 프론트엔드 (인트로) [lovekyy1201@naver.com](mailto:lovekyy1201@naver.com)
@@ -13,6 +15,7 @@
     Java
     JDK SE 11
     IDE : Eclipse 4.26
+    Notion / Adobe illustrator / Adobe photoshop
 ***
 ## 1. 시나리오(개요)
 
@@ -29,21 +32,6 @@
 
 ## 2. 문제분석
 
-- 백그라운드 구현
-    - 시작화면(Intro)
-    - 종료화면(Outro)
-    - 게임화면(Playing)
-      
-- 컴포넌트 ( 캐릭터/유령/벽/코인/빈벽/ (점수, 타이머) )
-    - 미로 클래스 ( 문서에서 바로 읽어드림  가장 먼저 만들어져야함)
-    - 타이머 클래스( 시작문구 3,2,1 스타트! , 피버타임 3,2,1 종료!)
-      
-- 메서드 
-    - 버튼 눌렀을때 화면 전환
-    - 키보드입력 → 좌버튼 우버튼 상버튼 하버튼 에 맞는 팩맨 이미지변경
-
-## 3. 설계도
-
 - 시작화면
     - 게임 타이틀 (PacMen) 출력
     - 시작버튼, 종료버튼
@@ -56,15 +44,27 @@
     - 점수
     - 다시시작, 종료
 - 추가사항(닉네임 입력 후 랭킹시스템)
+
+## 3. 설계도
+
+- 백그라운드 구현
+    - 시작화면(Intro)
+    - 종료화면(Outro)
+    - 게임화면(Playing)
+      
+- 컴포넌트 ( 캐릭터/유령/벽/코인/빈벽/ (점수, 타이머) )
+    - 미로 클래스 ( 문서에서 바로 읽어드림  가장 먼저 만들어져야함)
+    - 타이머 클래스( 시작문구 3,2,1 스타트! , 피버타임 3,2,1 종료!)
+      
+- 메서드 
+    - 버튼 눌렀을때 화면 전환
+    - 키보드입력 → 좌버튼 우버튼 상버튼 하버튼 에 맞는 팩맨 이미지변경
   
 <img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 ## 4. 개발계획
+
+<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
 ## 5. 소스코딩
 ## 6. 포트폴리오 / jar 배포
-
-## 팀원소개 | PacCo(팩코더)
-- 김정림(팀장) : 백엔드 (미로)  깃허브 junaa111@nate.com
-- 김은영 : 프론트엔드 (인트로) 깃허브 [lovekyy1201@naver.com](mailto:lovekyy1201@naver.com)
-- 김효범 : 프론트엔드 (아웃트로)  깃허브 [kimkishi97@gmail.com](mailto:kimkishi97@gmail.com)
-- 임성균 : 백엔드 (유령) 깃허브 [tjdrbs0607@naver.com](mailto:tjdrbs0607@naver.com)  
