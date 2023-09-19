@@ -76,7 +76,7 @@
 - InGameFrame :star:메인메서드:star:
 - IntroFrame
 - OutroFrame
-- 
+
 #### pacboy - [상세보기 - WIKI 이동](http://www.naver.com)
 - Coin
 - Ghost
