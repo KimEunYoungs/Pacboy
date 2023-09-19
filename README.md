@@ -10,9 +10,11 @@
 - 김정림(팀장) : 백엔드 (미로)  [junaa111@nate.com](junaa111@nate.com)
 - 김은영 : 프론트엔드 (인트로) [lovekyy1201@naver.com](mailto:lovekyy1201@naver.com)
 - 김효범 : 프론트엔드 (아웃트로) [kimkishi97@gmail.com](mailto:kimkishi97@gmail.com)
-- 임성균 : 백엔드 (유령) [tjdrbs0607@naver.com](mailto:tjdrbs0607@naver.com)  
+- 임성균 : 백엔드 (유령) [tjdrbs0607@naver.com](mailto:tjdrbs0607@naver.com)
+  
 ## 개발환경
-    Java
+
+    Java      
     JDK SE 11
     IDE : Eclipse 4.26
     Notion / Adobe illustrator / Adobe photoshop
