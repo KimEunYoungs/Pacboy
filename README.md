@@ -72,24 +72,24 @@
 
 ## 5. 소스코딩
 
-#### pacboy.frame - [상세보기 - WIKI 이동](http://www.naver.com)
+#### 메인프레임 pacboy.frame - [상세보기 - WIKI 이동](http://www.naver.com)
 - InGameFrame :star:메인메서드:star:
 - IntroFrame
 - OutroFrame
 
-#### pacboy - [상세보기 - WIKI 이동](http://www.naver.com)
+#### 객체 pacboy - [상세보기 - WIKI 이동](http://www.naver.com)
 - Coin
 - Ghost
 - GhostMoveManager
 - Pacboy
 - PacboyMoveManager
   
-#### pacboy.database - [상세보기 - WIKI 이동](http://www.naver.com)
+#### 데이터베이스 pacboy.database - [상세보기 - WIKI 이동](http://www.naver.com)
 - BGM
 - Maze
 - Ranking
 
-#### Source File - [상세보기 - WIKI 이동](http://www.naver.com)
+#### 인터페이스 pacboy.frame.inter - [상세보기 - WIKI 이동](http://www.naver.com)
 - UserInterface
 
 #### Source File - [상세보기 - WIKI 이동](http://www.naver.com)
