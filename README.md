@@ -79,11 +79,11 @@
   <img src="captureImg/02.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg02"></img>
 </div>
 <div>
-  <img src="captureImg/03.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg03"></img>
-  <img src="captureImg/04.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg04"></img>
-  <img src="captureImg/05.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg05"></img>
+  <img src="captureImg/03.png" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="pacboyImg03"></img>
+  <img src="captureImg/04.png" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="pacboyImg04"></img>
+  <img src="captureImg/05.png" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="pacboyImg05"></img>
 </div>
 <div>
   <img src="captureImg/06.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg06"></img>
-  <img src="captureImg/07.png" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="pacboyImg07"></img>
+  <img src="captureImg/07.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg07"></img>
 </div>
