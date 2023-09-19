@@ -1,10 +1,10 @@
 # PacBoy(팩보이) _ Game Project JAVA
 > 프로젝트 소개 : 팩보이가 제한시간 안에 유령을 피해 코인을 다먹어야 성공하는 게임
-  - 스레드를 이용한 GUI 게임 구현 / 고전게임 pacman 참고
++ 스레드를 이용한 GUI 게임 구현 / 고전게임 pacman 참고
 ## 개발 기간
 - 23.09.13 - 23.09.19
 ## 팀원소개 | PacCo(팩코더)
-- 김정림(팀장) : 백엔드 (미로)  깃허브 junaa111@nate.com
+- 김정림(팀장) : 백엔드 (미로)  [메일](junaa111@nate.com)
 - 김은영 : 프론트엔드 (인트로) 깃허브 [lovekyy1201@naver.com](mailto:lovekyy1201@naver.com)
 - 김효범 : 프론트엔드 (아웃트로)  깃허브 [kimkishi97@gmail.com](mailto:kimkishi97@gmail.com)
 - 임성균 : 백엔드 (유령) 깃허브 [tjdrbs0607@naver.com](mailto:tjdrbs0607@naver.com)  
