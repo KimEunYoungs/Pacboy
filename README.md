@@ -73,8 +73,8 @@
 ## 5. 소스코딩
 
 #### 메인프레임 pacboy.frame - [상세보기 - WIKI 이동](http://www.naver.com)
-- InGameFrame :star:메인메서드:star:
-- IntroFrame
+- InGameFrame 
+- IntroFrame :star:메인메서드:star:
 - OutroFrame
 
 #### 객체 pacboy - [상세보기 - WIKI 이동](http://www.naver.com)
