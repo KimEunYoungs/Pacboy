@@ -74,7 +74,18 @@
 ## 5. 소스코딩
 ## 6. 포트폴리오 / jar 배포
 
-![01 시작화면](https://github.com/KimEunYoungs/Pacboy/assets/90582597/01711ad3-2e38-44b5-86fb-31fead8c42e1)
-![20230919_131354](https://github.com/KimEunYoungs/Pacboy/assets/90582597/8c7af32b-f2af-4333-b826-2d9959c30a10)
-![20230919_140736](https://github.com/KimEunYoungs/Pacboy/assets/90582597/c2a92067-3b92-419c-b0e7-67e5260bc2dd)
-![20230919_131412](https://github.com/KimEunYoungs/Pacboy/assets/90582597/ae534419-665c-4a48-83ae-2c4e121075f6)
+<div>
+  <img src="captureImg/01.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg01"></img>
+  <img src="captureImg/02.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg02"></img>
+</div>
+<div>
+  <img src="captureImg/03.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg03"></img>
+  <img src="captureImg/04.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg04"></img>
+</div>
+<div>
+  <img src="captureImg/05.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg05"></img>
+  <img src="captureImg/06.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg06"></img>
+</div>
+<div>
+  <img src="captureImg/07.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="pacboyImg07"></img>
+</div>
