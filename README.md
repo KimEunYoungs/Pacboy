@@ -4,21 +4,22 @@
 > 팩보이가 제한시간 안에 유령을 피해 코인을 다먹어야 성공하는 게임
 
 ## 개발 기간
-- 23.09.13 - 23.09.19
+- 23.09.13 - 23.09.19 :hourglass_flowing_sand:
   
-## 팀원소개 | PacCo(팩코더)
+## 팀원소개 | PacCo(팩코더) :sunglasses::computer:
 - 김정림(팀장) : 백엔드 (미로)  [junaa111@nate.com](junaa111@nate.com)
 - 김은영 : 프론트엔드 (인트로) [lovekyy1201@naver.com](mailto:lovekyy1201@naver.com)
 - 김효범 : 프론트엔드 (아웃트로) [kimkishi97@gmail.com](mailto:kimkishi97@gmail.com)
 - 임성균 : 백엔드 (유령) [tjdrbs0607@naver.com](mailto:tjdrbs0607@naver.com)
   
-## 개발환경
+##  개발환경 
 
     Java      
     JDK SE 11
     IDE : Eclipse 4.26
     Notion / Adobe illustrator / Adobe photoshop
 ***
+:crystal_ball: :grinning: :ghost:
 ## 1. 시나리오(개요)
 
 시작화면에 닉네임을 적고 게임 start 버튼을 누른다 // 종료 버튼 으로 종료 가능
