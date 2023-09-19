@@ -1,4 +1,4 @@
-# PacBoy(팩보이) _ Game Project JAVA
+# :sparkles:[ PacBoy(팩보이) ]:sparkles: : Game Project JAVA
 > 스레드를 이용한 GUI 게임 구현 / 고전게임 pacman 참고
 > 
 > 팩보이가 제한시간 안에 유령을 피해 코인을 다먹어야 성공하는 게임
