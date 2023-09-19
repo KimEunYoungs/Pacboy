@@ -2,12 +2,12 @@
 > 프로젝트 소개 : 고전게임 Pacman을 참고하여 만든 Pacboy 게임
   - 스레드를 이용한 GUI 게임 구현
 ## 개발 기간
-- 23.09.13 - 23.09.19
+- 23.09.13 - 23.09.19 / 7일
 ## 팀원소개 | PacCo(팩코더)
-- 김정림 : 백엔드 (미로)  깃허브 junaa111@nate.com
+- 김정림(팀장) : 백엔드 (미로)  깃허브 junaa111@nate.com
 - 김은영 : 프론트엔드 (인트로) 깃허브 [lovekyy1201@naver.com](mailto:lovekyy1201@naver.com)
 - 김효범 : 프론트엔드 (아웃트로)  깃허브 [kimkishi97@gmail.com](mailto:kimkishi97@gmail.com)
-- 임성균 : 백엔드 (유령) 깃허브 [tjdrbs0607@naver.com](mailto:tjdrbs0607@naver.com)        
+- 임성균 : 백엔드 (유령) 깃허브 [tjdrbs0607@naver.com](mailto:tjdrbs0607@naver.com)  
 ## 개발환경
     Java
     JDK SE 11
