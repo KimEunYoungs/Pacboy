@@ -1,5 +1,9 @@
 # :sparkles:[ PacBoy(팩보이) ]:sparkles: : Game Project JAVA
 ![01 시작화면](https://github.com/KimEunYoungs/Pacboy/assets/90582597/01711ad3-2e38-44b5-86fb-31fead8c42e1)
+![20230919_131354](https://github.com/KimEunYoungs/Pacboy/assets/90582597/8c7af32b-f2af-4333-b826-2d9959c30a10)
+![20230919_140736](https://github.com/KimEunYoungs/Pacboy/assets/90582597/c2a92067-3b92-419c-b0e7-67e5260bc2dd)
+![20230919_131412](https://github.com/KimEunYoungs/Pacboy/assets/90582597/ae534419-665c-4a48-83ae-2c4e121075f6)
+
 > 스레드를 이용한 GUI 게임 구현 / 고전게임 pacman 참고
 > 
 > 팩보이가 제한시간 안에 유령을 피해 코인을 다먹어야 성공하는 게임
