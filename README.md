@@ -85,5 +85,5 @@
 </div>
 <div>
   <img src="captureImg/06.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg06"></img>
-  <img src="captureImg/07.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="pacboyImg07"></img>
+  <img src="captureImg/07.png" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="pacboyImg07"></img>
 </div>
