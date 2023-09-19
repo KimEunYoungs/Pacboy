@@ -72,7 +72,7 @@
 
 ## 5. 소스코딩
 
-#### 메인프레임 pacboy.frame - [상세보기 - WIKI 이동]([http://www.naver.com](https://github.com/KimEunYoungs/Pacboy/wiki/%EA%B0%9D%EC%B2%B4))
+#### 메인프레임 pacboy.frame - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy.frame)
 - InGameFrame 
 - IntroFrame :star:메인메서드:star:
 - OutroFrame
@@ -84,15 +84,15 @@
 - Pacboy
 - PacboyMoveManager
   
-#### 데이터베이스 pacboy.database - [상세보기 - WIKI 이동](http://www.naver.com)
+#### 데이터베이스 pacboy.database - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy.database)
 - BGM
 - Maze
 - Ranking
 
-#### 인터페이스 pacboy.frame.inter - [상세보기 - WIKI 이동](http://www.naver.com)
+#### 인터페이스 pacboy.frame.inter - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy.frame.inter)
 - UserInterface
 
-#### Source File - [상세보기 - WIKI 이동](http://www.naver.com)
+#### Source File - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/Source File)
 - C://pacco//resource
   - audio
   - database
