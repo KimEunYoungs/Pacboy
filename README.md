@@ -103,7 +103,7 @@
 
 - UserInterface
 
-#### Source File - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/Source File)
+#### SourceFile - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/SourceFile)
 
 - C://pacco//resource
   - audio
