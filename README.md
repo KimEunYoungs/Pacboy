@@ -69,11 +69,7 @@
   
 <img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-## 4. 개발계획
-
-<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-
-## 5. 소스코딩
+## 4. 소스코딩
 
 #### 메인메서드 pacboy - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy)
 
@@ -110,18 +106,24 @@
   - database
   - images
 
-## 6. 포트폴리오 / jar 배포
+## 5. 미리보기
 
-<div>
+- 시작화면
+
+<img src="captureImg/01.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg01"></img>
+
+- 게임화면
+
+  - 맵 버전 안내
+
+<img src="captureImg/01.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg01"></img>
+
+- 종료화면
+
+  - 승리했을 경우
+ 
+<img src="captureImg/01.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg01"></img>
+  
+  - 패배했을 경우
+
   <img src="captureImg/01.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg01"></img>
-  <img src="captureImg/02.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg02"></img>
-</div>
-<div>
-  <img src="captureImg/03.png" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="pacboyImg03"></img>
-  <img src="captureImg/04.png" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="pacboyImg04"></img>
-  <img src="captureImg/05.png" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="pacboyImg05"></img>
-</div>
-<div>
-  <img src="captureImg/06.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg06"></img>
-  <img src="captureImg/07.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg07"></img>
-</div>
