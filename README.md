@@ -112,7 +112,7 @@
 
 - 게임화면
 
-  - 맵 버전 안내
+  - 맵 버전 안내 레벨1 / 레벨2 / 레벨3
 
 <div>
   <img src="captureImg/03.png" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="pacboyImg03"></img>
@@ -126,6 +126,6 @@
  
 <img src="captureImg/06.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg06"></img>
   
-  - 패배했을 경우
+  - - 패배했을 경우
 
 <img src="captureImg/07.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="pacboyImg07"></img>
