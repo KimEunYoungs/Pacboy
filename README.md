@@ -6,7 +6,7 @@
 > 팩보이가 제한시간 안에 유령을 피해 코인을 다먹어야 성공하는 게임
 
 ## 개발 기간
-- 23.09.13 - 23.09.19 :hourglass_flowing_sand:
+- 23.09.13 - 23.09.20 :hourglass_flowing_sand:
   
 ## 팀원소개 | PacCo(팩코더) :sunglasses::computer:
 - 김정림(팀장) : [junaa111@nate.com](junaa111@nate.com)
