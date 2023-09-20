@@ -75,12 +75,12 @@
 
 ## 5. 소스코딩
 
-#### 메인프레임 pacboy.frame - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy.frame)
-- InGameFrame 
-- IntroFrame :star:메인메서드:star:
-- OutroFrame
+#### 메인메서드 pacboy - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy)
 
-#### 객체 pacboy - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy)
+- mainSimulator
+
+#### 객체 pacboy.character - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy.character)
+
 - Coin
 - Ghost
 - GhostMoveManager
@@ -88,14 +88,23 @@
 - PacboyMoveManager
   
 #### 데이터베이스 pacboy.database - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy.database)
+
 - BGM
 - Maze
 - Ranking
 
+#### 프레임 pacboy.frame - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy.frame)
+
+- InGameFrame 
+- IntroFrame :star:메인메서드:star:
+- OutroFrame
+
 #### 인터페이스 pacboy.frame.inter - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy.frame.inter)
+
 - UserInterface
 
 #### Source File - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/Source File)
+
 - C://pacco//resource
   - audio
   - database
