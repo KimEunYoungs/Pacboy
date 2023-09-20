@@ -77,7 +77,7 @@
 
 #### 메인메서드 pacboy - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy)
 
-- mainSimulator
+- mainSimulator :star:메인메서드:star:
 
 #### 객체 pacboy.character - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy.character)
 
@@ -96,7 +96,7 @@
 #### 프레임 pacboy.frame - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy.frame)
 
 - InGameFrame 
-- IntroFrame :star:메인메서드:star:
+- IntroFrame 
 - OutroFrame
 
 #### 인터페이스 pacboy.frame.inter - [상세보기 - WIKI 이동](https://github.com/KimEunYoungs/Pacboy/wiki/pacboy.frame.inter)
