@@ -64,8 +64,6 @@
     - 재시작 버튼, 종료 버튼
 
 ## 3. 설계도
-
-클래스 다이어그램 이미지 업로드 예정
   
 <img src="captureImg/diagram.png" width="90%" height="90%" title="px(픽셀) 크기 설정" alt="설계도"></img>
 
